@@ -2,10 +2,15 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlanAruFlores&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlanAruFlores&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">I am a student about to graduate from UnLaM (Universidad Nacional de la Matanza) with solid knowledge that allows me to obtain key skills to face organizational challenges and needs. My goal is to apply the knowledge I have, contributing to the company. In addition, I am committed to my professional growth, willing to take on new challenges and learn constantly.<br>Currently, I am learning and improving my English by watching courses and looking some technology such as Microservices, AWS and Docker with Spring Boot.</p>
+
+###
+
+<h2 align="left">Technologies</h2>
 
 ###
 
@@ -47,6 +52,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tortoisegit/tortoisegit-original.svg" height="30" alt="tortoisegit logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+</div>
+
+###
+
+<h2 align="left">Stats</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlanAruFlores&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlanAruFlores&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -78,5 +96,11 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/AlanAruFlores/AlanAruFlores/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/AlanAruFlores/count.svg?"  />
+</div>
 
 ###
