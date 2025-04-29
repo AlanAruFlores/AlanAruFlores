@@ -1,4 +1,4 @@
-<h2 align="left">Hi! My name is Alan and I'm Backend Developer from Argentina</h2>
+<h2 align="left">Hi 👋! My name is Alan and I'm Backend Developer from Argentina</h2>
 
 ###
 
@@ -69,11 +69,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXg2azZ0enM1c2dzc2I1Z3NvcHQ2M2dpbnloN2UxZ2ZwMDduajh2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
-
-###
-
-<div align="left">
+<div align="center">
   <a href="https://instagram.com/alanflow2022?igshid=MzNlNGNkZWQ4Mg==" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -102,5 +98,13 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/AlanAruFlores/count.svg?"  />
 </div>
+
+###
+
+<img align="left" height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq7nNJeKCruvRTtffF-D8dMNHaDscOJsmRbA&s"  />
+
+###
+
+<img align="right" height="200" src="https://http2.mlstatic.com/static/org-img/homesnw/mercado-libre.png?v=2"  />
 
 ###
