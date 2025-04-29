@@ -101,10 +101,8 @@
 
 ###
 
-<img align="left" height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq7nNJeKCruvRTtffF-D8dMNHaDscOJsmRbA&s"  />
+  <div style="display:flex; justify-content:center; gap:2px">
+  <img align="left" height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq7nNJeKCruvRTtffF-D8dMNHaDscOJsmRbA&s"  />
+  <img align="right" height="200" src="https://http2.mlstatic.com/static/org-img/homesnw/mercado-libre.png?v=2"  />  
+</div>
 
-###
-
-<img align="right" height="200" src="https://http2.mlstatic.com/static/org-img/homesnw/mercado-libre.png?v=2"  />
-
-###
