@@ -101,7 +101,7 @@
 
 ###
 
-<div style="display:flex; justify-content:center; gap:2px">
+<div style="display:flex; align-items:center; justify-content:center; gap:2px">
   <img style="display:block" height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq7nNJeKCruvRTtffF-D8dMNHaDscOJsmRbA&s"  />
   <img style="display:block" height="200" src="https://http2.mlstatic.com/static/org-img/homesnw/mercado-libre.png?v=2"  />  
 </div>
