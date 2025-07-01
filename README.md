@@ -40,13 +40,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="gcp logo" />
   <img width="12" />
-  <!-- Javalin - Custom icon since not available in devicon -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Javalin-logo.svg" height="30" alt="javalin logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
   <img width="12" />
-  <!-- Elastic (Kibana / Elasticsearch) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Elastic-logo.svg" height="30" alt="elastic logo" />
+  <!-- Elasticsearch y Kibana: desde el set de iconos Devicon Plain -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="30" alt="elasticsearch logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-original.svg" height="30" alt="kibana logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo" />
   <img width="12" />
